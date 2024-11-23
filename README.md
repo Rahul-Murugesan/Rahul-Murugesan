@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Rahul-Murugesan ❤️
-- 👀 I’m interested in Embedded and IoT Development , Machine Learing ,PCB Design , Web Design.
-- 🌱 I’m currently learning Innovative enginerring Projects based IoT and Embedded AI
-- 💞️ I’m looking to collaborate on Embedded with Artificial Inteligence and Machine Learning.
-- 📫 How to reach me "https://ragul-100.neocities.org/Rahul/Website" -This is my Own Website if you contact i give details in the Web.
-- ⚡ Fun fact: “It's not about how much we lost, it's about how much we have left.
+- 👀 I’m interested in Embedded and IoT Development, Machine Learning, PCB Design, Web Design, and VLSI.
+- 🌱 I’m currently learning innovative engineering projects based on IoT, Embedded AI, and VLSI.
+- 💞️ I’m looking to collaborate on Embedded Systems with Artificial Intelligence, Machine Learning, and IoT Development projects.
+- 📫 How to reach me: [Visit my website](https://ragul-100.neocities.org/Rahul/Website) for contact details.
+- ⚡ Fun fact: "It's not about how much we lost, it's about how much we have left."
 
 <!---
 Rahul-Murugesan/Rahul-Murugesan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
